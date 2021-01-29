@@ -1,0 +1,14 @@
+*.tlog
+*.pch
+*.pdb
+*.res
+*.suo
+*.db
+*.obj
+*.exp
+*.ilk
+*.lib
+*.log
+*.rhp
+*.recipe
+*.txt
